@@ -1,7 +1,7 @@
 # Ejercicios-de-Clases-de-POO
-# Participantes: Alejandro Martinez y Claudia Lopez // alejandru00 y clauloro
+# Nombre de usuario: alejandru00 y clauloro
 # Link repositorio:
-[Github: ]
+[Github: https://github.com/alejandru00/Ejercicios-de-Clases-de-POO.git]
 
 ******************************
 
