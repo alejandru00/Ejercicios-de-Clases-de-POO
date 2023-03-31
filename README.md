@@ -1,14 +1,18 @@
 # Ejercicios-de-Clases-de-POO
-Participantes: Alejandro Martinez y Claudia Lopez
+# Participantes: Alejandro Martinez y Claudia Lopez // alejandru00 y clauloro
+# Link repositorio:
+[Github: ]
+
+******************************
 
 Entrega por Parejas: UML Y CÓDIGO
 
-a. Palíndromo - método de clase
+1. Palíndromo - método de clase
 
-b. Palíndromo - método de instancia
+2. Palíndromo - método de instancia
 
-c. Puzzle
+3. Puzzle
  
-d. Logger
+4. Logger
  
 
