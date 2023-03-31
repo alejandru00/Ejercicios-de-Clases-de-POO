@@ -19,6 +19,8 @@ print(A.y(aa, (a,z)))
 print(aa.y((z,1,'z'))) 
 
 """
+COMENTARIOS:
+
 -> class A: la clase llamada A está compuesta por "z", que devuelve el mismo "self", y "y", que devuelve la longtud del parámetro "t".
 
 -> a = A: se le asigma a la variable a la clase A.
@@ -37,5 +39,8 @@ print(aa.y((z,1,'z')))
 
 -> print(a().y((a,))): esta tupla que contiene "a" devuelve "1" ya que su longitud es de 1.
 
-->
+-> print(A.y(aa, (a,z))): en este caso la dupla contiene "a" y "z" por lo que devuelve el número "2" (elementos de la dupla)
+
+-> print(aa.y((z,1,'z'))): en este metodo "y", la dupla contiene los elementos "z", "1" y "'z '", la longitud de la cual es 3, por lo que printea un "3".
+
 """
