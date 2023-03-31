@@ -1,3 +1,5 @@
+
+
 #Ejercicio 3: adivina qué mensajes se muestran mediante el siguiente código voluntariamente poco comprensible.
 
 class A: 

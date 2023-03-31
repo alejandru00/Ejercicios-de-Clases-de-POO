@@ -1,5 +1,7 @@
 
 
+#Ejercicio 4: crea una clase llamada logger que tenga un método llamado log que reciba un mensaje y lo escriba en un archivo de texto.
+
 #Clase logger
 class logger:
     def __init__(self, nombre):         #Constructor
